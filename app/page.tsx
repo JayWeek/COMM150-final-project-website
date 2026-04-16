@@ -25,9 +25,10 @@ export default function PerspectiveProjectLandingPage() {
       image:
         "https://images.unsplash.com/photo-1491841550275-ad7854e35ca6?auto=format&fit=crop&w=1200&q=80",
       content: [
-        "2 hours. I watched videos and read materials that helped me understand different cultures and societies. I learned their similarities and differences. I also watched videos that explained why people often misinterpret each other during communication.",
-        "7 hours. This is where I put most of my energy and soul into. I constantly engaged myself in conversations where I practiced listening more and interrupted less and made sure to be actively present during those moments.",
-        "1 hour. I spent this time reflecting on myself. I practiced intrapersonal skills here to better understand myself and prepare myself for my next interactions.",
+        "2 hours. April 3, I watched videos and read materials that helped me understand different cultures and societies. I learned their similarities and differences. I also watched videos that explained why people often misinterpret each other during communication.",
+        "7 hours. April 4-10, This is where I put most of my energy and soul into. I constantly engaged myself in conversations where I practiced listening more and interrupted less and made sure to be actively present during those moments.",
+        "1 hour. April 11, I spent this time reflecting on myself. I practiced intrapersonal skills here to better understand myself and prepare myself for my next interactions.",
+        "Total time: 10 hours."
       ],
     },
     {
@@ -39,7 +40,7 @@ export default function PerspectiveProjectLandingPage() {
         "This project helped me realize three things particularly",
         "Lesson one. One situation can be interpreted in many ways by different people because each has their own perspective.",
         "Lesson two. Asking is better than assuming. It is best to ask someone on a particular topic rather than just jumping straight to conclusions. Many times, misunderstandings happen because we rather assume based on past events and information we gained and yet, that wasn’t the case.",
-        "Lesson three. When we listen to others from a gospel perspective, with fulness of heart, usually, it’s easier to listen and understand each other much better than when we do at a secular level.",
+        "Lesson three. When we listen to others from a gospel perspective, with fullness of heart, usually, it’s easier to listen and understand each other much better than when we do at a secular level.",
       ],
     },
     {
@@ -69,6 +70,9 @@ export default function PerspectiveProjectLandingPage() {
                 How can I better understand the people I love?
               </h1>
               <div className="mt-8 h-px w-32 bg-[#d4af37]" />
+              <p className="mt-8 max-w-2xl text-lg leading-8 text-[#e7dfd0] md:text-xl">
+                Perception is how we interpret and understand other people, their actions, and situations.
+              </p>
               <p className="mt-8 max-w-2xl text-lg leading-8 text-[#e7dfd0] md:text-xl">
                 A personal reflection on understanding people more deeply through
                 real conversations, listening, perspective, and growth.
